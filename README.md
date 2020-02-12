@@ -52,9 +52,9 @@ By investing in a range of assets, you reduce the risk of one investment's perfo
 
 With a small budget ($1k) it's nearly impossible to have a well-diversified portfolio, so you can only invest in 1-2 companies (at the most) in the beginning. *This will increase your risk*.
 
-If you're investing in mutual funds or exchange-traded funds (ETFs), they have a large number of stocks and other investments within the fun, which makes them more diversified than a single stock.
+If you're investing in mutual funds or exchange-traded funds (ETF s), they have a large number of stocks and other investments within the fund, which makes them more diversified than a single stock.
 
-## Investing with a small budget
+## Investing with a [small budget](small-budget.md) (see file)
 
 * Do your homework and find the minimum deposit requirements
 * Compare commissions of different brokers
