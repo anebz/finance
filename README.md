@@ -4,7 +4,7 @@
 
 **Investing**: act of committing money or capital to an endeavor with the expectation of obtaining an additional income or profit in the future. Investing in the stock market is the most common way for beginners to gain investment experience.
 
-Possible online brokers: [Charles Schwab](https://www.investopedia.com/charles-schwab-review-4587888), [Fidelity](https://www.investopedia.com/fidelity-review-4587897).
+Possible [online brokers](online-brokers.md) (see .md file in link): [Charles Schwab](https://www.investopedia.com/charles-schwab-review-4587888), [Fidelity](https://www.investopedia.com/fidelity-review-4587897).
 
 Questions when investing:
 
