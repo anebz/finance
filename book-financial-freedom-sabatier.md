@@ -48,3 +48,40 @@ All the ways to build wealth rely on the same three basic variables:
 1. Income: how much money you are making
 2. Savings: how much money you are saving/investing
 3. Expenses: how much money you are spending
+
+Savings rate: you can calculate it in currency or percentage, it's the amount of money you save divided by your income. This number is directly correlated with the amount of time it'll take you to hit your number.
+
+To make as much money as possible, consider cutting expenses, optimizing fees/prices, minimizing taxes, building multiple income streams like side hustling, entrepreneurship.
+
+Find a side hustle that:
+
+* you can work for yourself
+* that pays well for your time
+* that you enjoy so you'll stick with it
+* that teaches you new skills
+* that has growth potential
+* that has passive income potential
+
+## Chapter 6. Is it worth it?
+
+How to cut expenses, ask yourself these 11 questions before buying anything:
+
+1. How happy will this purchase make me?
+2. How much money do I have to make to afford this?
+3. How many hours of my life am I trading to afford this?
+4. Can I afford it?
+5. How do prices compare in terms of percentages?
+6. Can I get it for less or trade for it?
+7. How much am I spending on convenience?
+8. How much would this cost me each year or for the rest of my life?
+9. What is the per-use cost of this item?
+10. How much will this money be worth in the future?
+11. How much time/freedom is this buying me in the future?
+
+## Chapter 7. The only budget you'll need
+
+You can likely save at least 20% per month by cutting back on your 3 biggest expenses: housing, transportation and food.
+
+## Chapter 8. Hack your 9-to-5
+
+Maximize your benefits and salary at your job, consider asking for a raise, **skills + network = money**.
