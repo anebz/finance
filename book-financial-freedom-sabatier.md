@@ -107,4 +107,39 @@ The side hustle evaluation framework:
     - perceived value, based on your reputation or how valuable your offering is to the customer
     - how much someone is able to pay
 
+## Chapter 10. The seven step fast track investment strategy
 
+If you need help, hire a fee-only financial advisor for a few hours to help you set up accounts, who charge on an hour basis or project basis, no AUM assets under management because they charge on investment basis.
+
+The financial advisor should be fiduciary, legally required to advise you in your best interest.
+
+Alternatively, work with low fee robo advisors like vanguard personal advisor services, betterment, wealthfront.
+
+### 10.1. Separate short-term and long-term investing goals
+
+### 10.2. Find out how much money do you hve to invest?
+
+### 10.3. Determine your target asset allocation
+
+* Bonds: loans with fixed interest rates, less risky than stocks
+    - Vanguard total stock market ETF (VIT)
+* Stocks: share of ownership of a real company
+    - Vanguard total bond market ETF (BND) index fund.
+
+Find out your ratio, 60% stock / 40% bond. The author recommends that the younger you are, the more percentage you should invest in stocks.
+
+Be aware of the ratio. If your money grows or decreases, your ratio might be skewed. Rebalance 4 times a year and buy/sell from one side to maintain balance.
+
+### 10.4. Evaluate your current fees, and try to keep them as low as possible
+
+Personal financial advisors have huge fees (1-2%), mutual funds have less (0.4%). The author suggests to beware of investment fees over 0.3%.
+
+### 10.5. Pick the right investment
+
+The easiest way to diversify your portfolio is to buy mutual funds or ETFs (exchange traded funds).
+
+They are very similar but mutual funds are priced only once a day, ETFs behave like stocks and their value can fluctuate throughout the day. ETFs tend to be easier to manage and have no investment minimums.
+
+It's also important to buy stocks from many different companies to minimize risk, the author suggests Vanguard total stock market index fund (VTSAX) and many others (see in book).
+
+### 10.6. Max out your tax-advantaged accounts
