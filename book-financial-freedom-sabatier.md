@@ -53,15 +53,6 @@ Savings rate: you can calculate it in currency or percentage, it's the amount of
 
 To make as much money as possible, consider cutting expenses, optimizing fees/prices, minimizing taxes, building multiple income streams like side hustling, entrepreneurship.
 
-Find a side hustle that:
-
-* you can work for yourself
-* that pays well for your time
-* that you enjoy so you'll stick with it
-* that teaches you new skills
-* that has growth potential
-* that has passive income potential
-
 ## Chapter 6. Is it worth it?
 
 How to cut expenses, ask yourself these 11 questions before buying anything:
@@ -85,3 +76,35 @@ You can likely save at least 20% per month by cutting back on your 3 biggest exp
 ## Chapter 8. Hack your 9-to-5
 
 Maximize your benefits and salary at your job, consider asking for a raise, **skills + network = money**.
+
+## Chapter 9. More money in less time
+
+Diversify your income streams by developing **side hustles**, moneymaking ventures outside your full-time job. Investing the money earnt by side hustling will fast track your investment growth.
+
+Find a side hustle:
+
+* where you can work for yourself
+* that pays well for your time
+* that you enjoy so you'll stick with it
+* that teaches you new skills
+* that has growth potential
+* that has passive income potential
+
+Evaluate how much time you're realistically willing to commit to it, because this will determine the types of side hustles you can launch and how much money you can make.
+
+The most lucrative side hustles are ones that generate passive income, money you can earn without actively having to do anything.
+
+The side hustle evaluation framework:
+
+* Analyze your passions and skills
+* Can you get paid for any of them, can you launch a course teaching people how to do something, can you sell it locally in your community?
+* Evaluate the moneymaking potential of your side hustles
+* Think about how much to charge, get your first sale, and get paid as much as possible. Things that determine how much you can charge:
+    - skills required to perform the task, or your relative skill level as compared to your competitors
+    - demand
+    - how much your competitors are charging
+    - added value, any additional services or bonuses you offer
+    - perceived value, based on your reputation or how valuable your offering is to the customer
+    - how much someone is able to pay
+
+
