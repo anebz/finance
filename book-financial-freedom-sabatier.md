@@ -4,18 +4,14 @@
 
 The key to fast-tracking financial freedom is to speed up compounding by making and investing as much money as early and frequently as you can.
 
-The earnings (or losses) of the stock market can vary wildly from month to month and from year to year, but over the long term, many economists have found that the real dollar returns (meaning returns adjusted to account for inflation and stock dividends) of the U.S. stock market average between 7 and 9 percent per year.
-
-Advisable to put the money in a total stock market index fund, which tracks the performance of the entire stock market and is therefore most likely to generate the average 7 percent return over time.
-
 Money is inherently infinite, it's a human invention. But time is inherently limited.
 
 ## Chapter 3. What is your number?
 
 Two key concepts:
 
-* asset allocation: the percentage of stocks vs. bonds, which determines the level of risk/reward in your portfolio
-* withdrawal rate: the amount of money one withdraws from an investment portfolio each month to live on.
+* asset allocation: the percentage of stocks vs. bonds, the level of risk/reward in your portfolio
+* withdrawal rate: the amount of money one withdraws from an investment portfolio each month to live on
 
 **Investing is a long-term game, it takes years for compounding to pay off.** How much money you need ultimately depends on the type of lyfestyle you want to live.
 
@@ -45,9 +41,9 @@ But humans generally fear losing more than we enjoy winning, a concept known as 
 
 All the ways to build wealth rely on the same three basic variables:
 
-1. Income: how much money you are making
-2. Savings: how much money you are saving/investing
-3. Expenses: how much money you are spending
+1. Income: money you are making
+2. Savings: money you are saving/investing
+3. Expenses: money you are spending
 
 Savings rate: you can calculate it in currency or percentage, it's the amount of money you save divided by your income. This number is directly correlated with the amount of time it'll take you to hit your number.
 
@@ -111,15 +107,15 @@ The side hustle evaluation framework:
 
 If you need help, hire a fee-only financial advisor for a few hours to help you set up accounts, who charge on an hour basis or project basis, no AUM assets under management because they charge on investment basis.
 
-The financial advisor should be fiduciary, legally required to advise you in your best interest.
+The financial advisor should be **fiduciary**, legally required to advise you in your best interest.
 
-Alternatively, work with low fee robo advisors like vanguard personal advisor services, betterment, wealthfront.
+Alternatively, work with low fee robo advisors like vanguard personal advisor services, Betterment, or Wealthfront.
 
 ### 10.1. Separate short-term and long-term investing goals
 
 Invest in stocks/bonds for long-term, cash, CDs or bonds for short-term.
 
-### 10.2. Find out how much money do you hve to invest?
+### 10.2. Find out how much money do you have to invest
 
 ### 10.3. Determine your target asset allocation
 
@@ -128,7 +124,7 @@ Invest in stocks/bonds for long-term, cash, CDs or bonds for short-term.
 * Stocks: share of ownership of a real company
     - Vanguard total bond market ETF (BND) index fund.
 
-Find out your ratio, 60% stock / 40% bond. The author recommends that the younger you are, the more percentage you should invest in stocks.
+Find out your ratio, 60% stock / 40% bond. The author recommends that the younger you are, the higher the percentage you should invest in stocks.
 
 Be aware of the ratio. If your money grows or decreases, your ratio might be skewed. Rebalance 4 times a year and buy/sell from one side to maintain balance.
 
@@ -138,11 +134,13 @@ Personal financial advisors have huge fees (1-2%), mutual funds have less (0.4%)
 
 ### 10.5. Pick the right investment
 
+The earnings (or losses) of the stock market can vary wildly from month to month and from year to year, but over the long term, many economists have found that the real dollar returns (meaning returns adjusted to account for inflation and stock dividends) of the U.S. stock market average between 7 and 9% per year.
+
 The easiest way to diversify your portfolio is to buy mutual funds or ETFs (exchange traded funds).
 
 They are very similar but mutual funds are priced only once a day, ETFs behave like stocks and their value can fluctuate throughout the day. ETFs tend to be easier to manage and have no investment minimums.
 
-It's also important to buy stocks from many different companies to minimize risk, the author suggests Vanguard total stock market index fund (VTSAX) and many others (see in book).
+It's also important to buy stocks from many different companies to minimize risk, the author suggests Vanguard total stock market index fund (VTSAX) and many others (see in book). Any **total stock market index fund** tracks the performance of the entire stock market and is therefore most likely to generate the average 7% return over time.
 
 ### 10.6. Max out your tax-advantaged accounts
 
@@ -152,7 +150,7 @@ Invest first in accounts where you have tax advantages, either no taxes when you
 
 After that, you can invest in taxable accounts, where you pay for both. The most popular taxable accounts are **brokerage accounts**, a few popular brokerage companies are Vanguard, Charles Schwab, and Fidelity. Look for a firm that charges a simple low transaction fee (less than $5 per trade) to hold your investments, not one that takes a percentage of your investment gains.
 
-Still invest in low-cost total stock market index and bond funds. The author advises to form the core of your investing strategy with total stock market index funds, but you can also invest in individual stocks. It's not easy to make money holding individual stocks, but you can do it if you believe in the fundamentals of a company and hold the stock for a long period of time.
+**Invest in low-cost total stock market index and bond funds**. The author advises to form the core of your investing strategy with total stock market index funds, but you can also invest in individual stocks. It's not easy to make money holding individual stocks, but you can do it if you believe in the fundamentals of a company and hold the stock for a long period of time.
 
 The individual stock-investing strategy that actually works is known as **value investing**, what Warren Buffet does. Waiting until you find a company that's undervalued and then invest in it. Check out the book *The intelligent investor* by Benjamin Graham.
 
