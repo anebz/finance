@@ -117,6 +117,8 @@ Alternatively, work with low fee robo advisors like vanguard personal advisor se
 
 ### 10.1. Separate short-term and long-term investing goals
 
+Invest in stocks/bonds for long-term, cash, CDs or bonds for short-term.
+
 ### 10.2. Find out how much money do you hve to invest?
 
 ### 10.3. Determine your target asset allocation
@@ -143,3 +145,33 @@ They are very similar but mutual funds are priced only once a day, ETFs behave l
 It's also important to buy stocks from many different companies to minimize risk, the author suggests Vanguard total stock market index fund (VTSAX) and many others (see in book).
 
 ### 10.6. Max out your tax-advantaged accounts
+
+Invest first in accounts where you have tax advantages, either no taxes when you invest or no taxes when you withdraw money. These are usually retirement or health accounts.
+
+### 10.7. Invest in taxable accounts
+
+After that, you can invest in taxable accounts, where you pay for both. The most popular taxable accounts are **brokerage accounts**, a few popular brokerage companies are Vanguard, Charles Schwab, and Fidelity. Look for a firm that charges a simple low transaction fee (less than $5 per trade) to hold your investments, not one that takes a percentage of your investment gains.
+
+Still invest in low-cost total stock market index and bond funds. The author advises to form the core of your investing strategy with total stock market index funds, but you can also invest in individual stocks. It's not easy to make money holding individual stocks, but you can do it if you believe in the fundamentals of a company and hold the stock for a long period of time.
+
+The individual stock-investing strategy that actually works is known as **value investing**, what Warren Buffet does. Waiting until you find a company that's undervalued and then invest in it. Check out the book *The intelligent investor* by Benjamin Graham.
+
+Another individual stock-investing strategy is **dividend investing**. Some companies share some of their profits with their shareholders in the form of a regular cash payment or distribution known as dividend.
+
+The author recommends not investing more than 5% of your portfolio in all of your individual stocks combined.
+
+## Chapter 11. Real estate investing
+
+If you want to buy a property, you need to save enough for a down payment on a mortgage, and then qualify for a mortgage. Your monthly mortgage payment shouldn't exceed 30-40% of your income.
+
+2 ways to invest in real estate: buy and sell (flip properties), or buy and hold it for the long term. Tips for investing in properties:
+
+1. Develop real estate investing criteria to follow
+2. Set a budget and get preapproved for a mortgage or loan
+3. Look for properties that generate immediate positive cash flow and have high rent and appreciation potential
+4. Find a Realtor who does the hard work for you
+5. Hunt when everyone else isn't
+6. Look for foreclosures or short sales
+7. Test-drive the neighborhood
+8. Find an experienced home inspector
+9. Be prepared to walk away from a deal
