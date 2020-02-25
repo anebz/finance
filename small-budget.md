@@ -1,5 +1,9 @@
 # [small-budget](https://www.investopedia.com/articles/personal-finance/123115/best-ways-invest-500-5000.asp)
 
+* Do your homework and find the minimum deposit requirements
+* Compare commissions of different brokers
+* You won't be able to cost-effectively buy individual stocks and still be diversified
+
 ## 1. Starting strategies
 
 ### 1.1. Automate savings
@@ -42,7 +46,7 @@ If you want to play it safe, park your sum in a certificate of deposit (CD) from
 
 If you're comfortable with more risk, one option is investing in [dividend reinvestment plan (DRIP)](https://www.investopedia.com/terms/d/dividendreinvestmentplan.asp). You buy shares of stock, and your dividends are automatically used to purchase additional shares or even fractional shares. These shares are purchased at a discount and without paying a sales commission to a broker. Buying a single share of a company's stock can get you started.
 
-Another option is an **exchange-traded fund (ETF)**, most of which require no minimum investment. Unlike most mutual funds, ETFs typically require a [passive management](https://www.investopedia.com/terms/p/passivemanagement.asp) structure, which means lower ongoing costs. There are [some drawbacks to ETFs](https://www.investopedia.com/articles/mutualfund/07/etf_downside.asp), for example you have to pay fees on their transactions. To lessen these charges, you can use a discount broker that doesn't charge a commission or plan to invet less often, investing more money quarterly rather than small monthly purchases.
+Another option is an **exchange-traded fund (ETF)**, most of which require no minimum investment. Unlike most mutual funds, ETFs typically require a [passive management](https://www.investopedia.com/terms/p/passivemanagement.asp) structure, which means lower ongoing costs. There are [some drawbacks to ETFs](https://www.investopedia.com/articles/mutualfund/07/etf_downside.asp), for example you have to pay fees on their transactions. To lessen these charges, you can use a discount broker that doesn't charge a commission or plan to invest less often, investing more money quarterly rather than small monthly purchases.
 
 If you're comfortable with a lot of risk, you can invest in [peer-to-peer lending](https://www.investopedia.com/terms/p/peer-to-peer-lending.asp). [Crowdfunders](https://www.investopedia.com/terms/c/crowdfunding.asp) connect investors with money to lend and entrepreneurs trying to fund new ventures. As the loans are repaid, the investors receive a share of the interest in proportion to the amount they have invested. Lending Club requires $1k minimum to start, Prosper $25. Crowdfunding offers high risk, but also the prospect of higher earnings.
 
