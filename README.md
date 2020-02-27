@@ -7,3 +7,5 @@ Index
 * [Benjamin Graham's timeless investment principles](graham-principles.md)
 * [Financial freedom book notes](book-financial-freedom-sabatier.md)
 * [4 Investment strategies](investment-strategies.md)
+* [Robo advisors](robo-advisors.md)
+
