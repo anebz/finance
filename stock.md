@@ -4,7 +4,7 @@ Stock/share/equity is a proportionate ownership in the issuing [corporation](htt
 
 In the [long run](https://www.investopedia.com/terms/l/longrun.asp), they have outperformed most other investments.
 
-Ownership is determined by the number of shares a person owns relative to the number of [outstanding shares](https://www.investopedia.com/terms/o/outstandingshares.asp). Stock holders don't *own* the corporation, they own shares issued by corporations. Corporations are a special type of organization because the law treats them as legal persons. Coroprations file taxes, can borrow, own property, be sued, etc. The idea that a corporation is a “person” means that the corporation owns its own assets. 
+Ownership is determined by the number of shares a person owns relative to the number of [outstanding shares](https://www.investopedia.com/terms/o/outstandingshares.asp). Stock holders don't *own* the corporation, they own shares issued by corporations. Corporations are a special type of organization because the law treats them as legal persons. Coroprations file taxes, can borrow, own property, be sued, etc. The idea that a corporation is a “person” means that the corporation owns its own assets.
 
 This distinction is important because corporate property is legally separated from the property of shareholders, which limits the [liability](https://www.investopedia.com/terms/l/liability.asp) of both the corporation and the shareholder.
 
@@ -27,4 +27,3 @@ Companies can issue new shares whenever there's a need to raise additional cash.
 Stocks are issued by companies to raise capital, [paid-up or share](https://www.investopedia.com/ask/answers/033015/what-difference-between-paidup-capital-and-share-capital.asp), to grow the business or to undertake new projects.
 
 You can buy shares directly from the company when it issues them, [primary market](https://www.investopedia.com/terms/p/primarymarket.asp), or from another shareholder, [secondary market](https://www.investopedia.com/terms/s/secondarymarket.asp)
-

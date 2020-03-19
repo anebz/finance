@@ -2,7 +2,7 @@
 
 Graham is considered the father of security analysis and [value investing](https://www.investopedia.com/terms/v/valueinvesting.asp).
 
-His two famous books are "Security Analysis" (1934) and "The intelligent investor" (1949). 
+His two famous books are "Security Analysis" (1934) and "The intelligent investor" (1949).
 
 ## 1. Always invest with a [margin of safety](https://www.investopedia.com/terms/m/marginofsafety.asp)
 
@@ -34,4 +34,4 @@ If you're willing to spend a lot of time researching, Graham thought work=return
 
 If not, then investing in an [index](https://www.investopedia.com/terms/i/index.asp) is a good alternative. Graham said that the defensive investor could get an [average return](https://www.investopedia.com/terms/a/averagereturn.asp) by simply buying the 30 stocks of the [Dow Jones industrial average](https://www.investopedia.com/terms/d/djia.asp) in equal amounts. Both Graham and Buffett said that getting even an average return, such as the return of the [S&P 500](https://www.investopedia.com/terms/s/sp500.asp), is more of an accomplishment than it might seem.
 
-In modern terms, the defensive investor would be [an investor in index funds](https://www.investopedia.com/articles/markets/101415/4-best-sp-500-index-funds.asp) of both stocks and bonds. In essence, they own the entire market, benefiting from the areas that perform the best without trying to predict those areas ahead of time
+In modern terms, the defensive investor would be [an investor in index funds](https://www.investopedia.com/articles/markets/101415/4-best-sp-500-index-funds.asp) of both stocks and bonds. In essence, they own the entire market, benefiting from the areas that perform the best without trying to predict those areas ahead of time.

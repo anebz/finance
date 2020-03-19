@@ -3,13 +3,25 @@
 Index
 
 * [How to start investing in stocks: A beginner's guide](investing-beginner.md)
+  * Online brokers
+  * Minimums, commissions, fees
+  * Diversification
 * [Investing with a small budget](small-budget.md)
+  * Savings
+  * Investments depending on money, $500-5k
+    * Index funds, ETFs
 * [Benjamin Graham's timeless investment principles](graham-principles.md)
+  * Invest with a margin of safety
+  * Expect volatilty and profit from it
+  * Know what type of investor you are
 * [Financial freedom book notes](book-financial-freedom-sabatier.md)
 * [4 Investment strategies](investment-strategies.md)
+  * Value investing
+  * Growth investing
+  * Momentum investing
+  * Dollar cost averaging (DCA)
 * [Robo advisors](robo-advisors.md)
 * [Stock](stock.md)
-
 
 MEASURING RISK
 You've probably heard that investing is a type of gambling. If that's true, then why should you invest your money in securities (which requires a lot of time and studying) rather than using that money to gamble (which for many people is a lot more fun)? As you may have guessed, it's because there is a huge difference in the level of risk between investing and, say, poker.

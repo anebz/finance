@@ -22,3 +22,7 @@ Automated services are also ill-equipped to deal with unexpected crises or extra
 
 Furthermore, robo-advisors operate on the assumption that clients have defined goals and a clear understanding of their financial circumstances, to begin with. For many, that is not the case. Many people don't know how much risk they're willing to accept.
 
+## Robo advisors in Europe
+
+* <https://robo-advisors.eu/>
+* <https://brokerchooser.com/best-brokers/best-trading-platform-for-europeans>

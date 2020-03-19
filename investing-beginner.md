@@ -2,7 +2,7 @@
 
 **Investing**: act of committing money or capital to an endeavor with the expectation of obtaining an additional income or profit in the future. Investing in the stock market is the most common way for beginners to gain investment experience.
 
-Possible [online brokers](online-brokers.md) (see .md file in link): [Charles Schwab](https://www.investopedia.com/charles-schwab-review-4587888), [Fidelity](https://www.investopedia.com/fidelity-review-4587897).
+Possible [online brokers](online-brokers.md) (see .md file in link): [Charles Schwab](https://www.investopedia.com/charles-schwab-review-4587888),[Fidelity](https://www.investopedia.com/fidelity-review-4587897). Most of them require you to be a US citizen or resident.
 
 Questions when investing:
 
@@ -12,13 +12,13 @@ Questions when investing:
 ## Types of [online brokers](https://www.investopedia.com/broker-awards-4587871)
 
 * Full-service brokers: give the full range of traditional brokerage services
-    - financial advice for retirement, healthcare
-    - usually only deal with high-net-worth clients
-    - charge substantial fees
+  * financial advice for retirement, healthcare
+  * usually only deal with high-net-worth clients
+  * charge substantial fees
 * Discount brokers: give you tools to select and place your own transactions
-    - very common nowadays
-    - sometimes include educational material
-    - request a minimum deposit
+  * very common nowadays
+  * sometimes include educational material
+  * request a minimum deposit
 
 Some [online stock brokers for beginners](https://www.investopedia.com/best-brokers-for-beginners-4587873).
 
@@ -30,7 +30,7 @@ And as the success of [index investing](https://www.investopedia.com/terms/i/ind
 
 ## Investing through your employer
 
-If you're on a tight budget, try to invest 1% of your salary into your company's retirement plan. If you have a 401(k) retirement account at work, you may already be investing in your future with allocations to mutual funds and even your own company's stock.
+If you're on a tight budget, invest 1% of your salary into your company's retirement plan. If you have a 401(k) retirement account at work, you may already be investing in your future with allocations to mutual funds and even your own company's stock.
 
 ## Minimums to open an account
 
@@ -46,14 +46,14 @@ In most cases, brokers charge a commission every time you trade stock, either th
 
 ## Diversify and reduce risks
 
-By investing in a range of assets, you reduce the risk of one investment's performance severely hurting the return of your overall investment: 'don't put all your eggs in one basket'.
+**By investing in a range of assets, you reduce the risk of one investment's performance severely hurting the return of your overall investment: 'don't put all your eggs in one basket'.**
 
 With a small budget ($1k) it's nearly impossible to have a well-diversified portfolio, so you can only invest in 1-2 companies (at the most) in the beginning. *This will increase your risk*.
 
 If you're investing in mutual funds or exchange-traded funds (ETF s), they have a large number of stocks and other investments within the fund, which makes them more diversified than a single stock.
 
-A mutual fund is a mix of investments packaged together. Mutual funds allow investors to skip the work of picking individual stocks and bonds, and instead purchase a diverse collection in one transaction. The inherent diversification of mutual funds makes them generally less risky than individual stocks.
+A **mutual fund** is a mix of investments packaged together. Mutual funds allow investors to skip the work of picking individual stocks and bonds, and instead purchase a diverse collection in one transaction. The inherent diversification of mutual funds makes them generally less risky than individual stocks.
 
-Some mutual funds are managed by a professional, but index funds — a type of mutual fund — follow the performance of a specific stock market index, like the S&P 500. By eliminating the professional management, index funds are able to charge lower fees than actively managed mutual funds.
+Some mutual funds are managed by a professional, but **index funds** — a type of mutual fund — follow the performance of a specific stock market index, like the S&P 500. By eliminating the professional management, index funds are able to charge lower fees than actively managed mutual funds.
 
 Most 401(k)s offer a curated selection of mutual or index funds with no minimum investment, but outside of those plans, these funds may require a minimum of $1,000 or more.
