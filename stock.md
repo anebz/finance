@@ -26,4 +26,4 @@ Companies can issue new shares whenever there's a need to raise additional cash.
 
 Stocks are issued by companies to raise capital, [paid-up or share](https://www.investopedia.com/ask/answers/033015/what-difference-between-paidup-capital-and-share-capital.asp), to grow the business or to undertake new projects.
 
-You can buy shares directly from the company when it issues them, [primary market](https://www.investopedia.com/terms/p/primarymarket.asp), or from another shareholder, [secondary market](https://www.investopedia.com/terms/s/secondarymarket.asp)
+You can buy shares directly from the company when it issues them, [primary market](https://www.investopedia.com/terms/p/primarymarket.asp), or from another shareholder, [secondary market](https://www.investopedia.com/terms/s/secondarymarket.asp).
