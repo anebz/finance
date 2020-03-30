@@ -8,7 +8,7 @@
 
 If you're a true value investor, you'll buy businesses, not stock. [Warren Buffet](https://www.investopedia.com/articles/01/071801.asp) does his homework—sometimes for years. But when he’s ready, he goes all in and is committed for the long-term.
 
-If you don't have years to do the research, [price-earnings ratio (P/E)](https://www.investopedia.com/terms/p/price-earningsratio.asp) is a tool to quickly identify undervalued or cheap stocks. A lower P/E means you're paying less per $1 of current earnings. Value investors seek companies with a low P/E ratio.
+If you don't have years to do the research, [price-earnings ratio (P/E)](https://www.investopedia.com/terms/p/price-earningsratio.asp) is a tool to quickly identify undervalued or cheap stocks. A lower P/E means you're paying less per $1 of current earnings. Value investors seek companies with a low P/E ratio. [More on P/E ratio](p-e-ratio.md)
 
 Value investing can work so long as the investor is in it for the long-term and is prepared to apply some serious effort and research to their stock selection.
 
