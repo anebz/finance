@@ -1,5 +1,7 @@
 # finance
 
+> [Awesome investing repo](https://github.com/mr-karan/awesome-investing)
+
 Index
 
 * [How to start investing in stocks: A beginner's guide](investing-beginner.md)
@@ -23,6 +25,7 @@ Index
 * [Robo advisors](robo-advisors.md)
 * [Stock](stock.md)
 * [Bond](bond.md)
+* [Ramen profitability](ramen-profitable.md)
 
 MEASURING RISK
 You've probably heard that investing is a type of gambling. If that's true, then why should you invest your money in securities (which requires a lot of time and studying) rather than using that money to gamble (which for many people is a lot more fun)? As you may have guessed, it's because there is a huge difference in the level of risk between investing and, say, poker.
