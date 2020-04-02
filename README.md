@@ -17,15 +17,21 @@ Index
   * Expect volatilty and profit from it
   * Know what type of investor you are
 * [Financial freedom book notes](book-financial-freedom-sabatier.md)
-* [4 Investment strategies](investment-strategies.md)
+* [4 investment strategies](investment-strategies.md)
   * Value investing
+    * [Undervalued stocks](undervalued.md)
+    * [Herd instinct](herd-instinct.md)
+    * [Behavioral finance](behavioral-finance.md)
   * Growth investing
   * Momentum investing
   * Dollar cost averaging (DCA)
 * [Robo advisors](robo-advisors.md)
 * [Stock](stock.md)
+  - [Volatility](volatility.md)
 * [Bond](bond.md)
 * [Ramen profitability](ramen-profitable.md)
+* [Stock market simulators](simulators.md)
+* [Recession](recession.md)
 
 MEASURING RISK
 You've probably heard that investing is a type of gambling. If that's true, then why should you invest your money in securities (which requires a lot of time and studying) rather than using that money to gamble (which for many people is a lot more fun)? As you may have guessed, it's because there is a huge difference in the level of risk between investing and, say, poker.
