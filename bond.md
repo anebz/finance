@@ -34,3 +34,17 @@ Types of bonds, varieties of bonds, yield to maturity in article.
 Maturity, (un-)secured, liquidation preference, coupon, tax status, callability.
 
 risks of bonds: interest rate risk, credit/default risk, prepayment risk, bond ratings, yield to maturity, current yield.
+
+## [Mistakes to avoid when buying bonds](https://www.investopedia.com/articles/bonds/07/fixedincome.asp)
+
+1. Ignoring interest rate moves
+    * Before a bond's redemption on its maturity date, the price of the issue will vary widely as interest rates fluctuate. Investors shold be prepared to maintain their positions until the actual date of redemption.
+2. Not noting the claim status / the type of bond
+    * Senior notes are given the first claim to company asset in case of bankruptcy and liquidation
+3. Assuming a company is sound
+4. Misjudging market perception
+    * take a look at the issuer's common stock to see how it is being perceived. If it is disliked, or there is unfavorable research in the public domain on the equity, it will likely spill over and be reflected in the price of the bond as well.
+5. Failing to check the history
+    * Read the company's [management discussion and analysis](https://www.investopedia.com/terms/m/mdanalysis.asp) (MD&A) section for the company's history
+6. Ignoring inflation trends
+7. Failing to check liquidity

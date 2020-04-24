@@ -4,8 +4,8 @@ Outline
 
 0. [Introduction](#chapter-0-introduction)
 1. [Investment v. speculation: results to be expected by the intelligent investor](#chapter-1-investment-v-speculation)
-2. The investor and inflation
-3. A century of stock-market history: the level of stock prices in early 1972
+2. [The investor and inflation](#chapter-2-the-investor-and-inflation)
+3. [A century of stock-market history: the level of stock prices in early 1972](#chapter-3-a-century-of-stock-market-history)
 4. General portfolio policy: the defensive investor
 5. The defensive investor and common stocks
 6. Portfolio policy for the enterprising investor: negative approach
@@ -76,3 +76,30 @@ Different strategies with high risk for 2 reasons, human fallibility and the com
 3. Long-term selectivity, there's an excellent record of past growth, likely to continue in the future.
 
 The investor must follow policies which are inherently sound and promising, and not popular on Wall Street.
+
+## Chapter 2 The investor and inflation
+
+The standard policy of people all over the world who mistrust their currency has been to buy and hold gold. But between 1935 and 1972, it increased in 35%. But during all this time the holder of gold has received no income return on his capital, and instead has incurred some annual expense for storage.
+
+The investment philosopher Peter L. Bernstein feels that Graham was “dead wrong” about precious metals, particularly gold, which (at least in the years after Graham wrote this chapter) has shown a robust ability to outpace inflation.
+ 
+We feel that the defensive investor cannot afford to be without an appreciable proportion of common stocks in his portfolio, even if we regard them as the lesser of two evils—the greater being the risks in an all-bond holding.
+
+The intelligent investor must always be on guard against whatever is unexpected and underestimated. There are three good reasons to believe that inflation is not dead:
+
+* In 1979 inflation in the US was at 13.3%, paralyzing the economy in what's become known as 'stagflation'
+* Since 1960, 69% of countries have suffered at least one year where inflation was 25% or more. On average, those periods destroyed 53% of an investor's purchasing power
+* Completely eradicating inflation runs against the economic self-interest of any government that regularly borrows money
+
+In a time of deflation (or steadily falling prices) it’s more advantageous to be a lender than a borrower—which is why most investors should keep at least a small portion of their assets in bonds, as a form of insurance against deflating prices.
+
+When inflation has been negative (deflation) or above 6%, the market has done terribly. The market likes mild inflation. In the XX. century, there were 64 five-year-periods in which 50 times stocks outpaced inflation. But this means that stocks failed to keep up with inflation about one-fifth of the time.
+
+So what to do against inflation?
+
+* REITs: real estate investment trusts, are companies that own and collect rent from commercial and residential properties.
+* TIPS: treasury inflation-protected securities, are US government bonds that automatically go up in value when inflation rises. But if the inflation goes up and so does your TIPS value, that income is valued as taxable. Because of this, TIPS are best suited for a tax-deferred retirement account like an IRA or 401 (k).
+
+## Chapter 3 a century of stock market history 65-80-88 79-94-102
+
+

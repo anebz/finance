@@ -6,10 +6,19 @@ Since the [Industrial Revolution](https://www.investopedia.com/terms/i/industria
 
 Recession is a normal, albeit unpleasant, part of the [business cycle](https://www.investopedia.com/terms/b/businesscycle.asp).
 
-### Interest rates during a recesion
+## Interest rates during a recesion
 
 During a recesion, interest rates fall. The [Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp) has tools to control interest rates, like coaxing rates downward to stimulate the economy.
 
 The Fed knows how to use the fact that people save in a recession, and lower rates to a point where people think it might be stupid to not take advantage of such attractive rates. This is turn leads to an influx in loans, which pumps money back into the system and theoretically jumpstarts an economy.
 
 A downside of this quantitative easing, or QE, is when countries keep interest rates too low—or even negative—for too long and the economy goes into stagnation.
+
+## [Things not to do during a recession](https://www.investopedia.com/articles/pf/09/avoid-five-recession-risks.asp)
+
+* Avoid becoming a cosigner, cosigning a loan
+* Avoid taking out an adjustable-rate mortgage
+    - the adjustable rate for a loan taken out during a recession is nearly certain to rise
+* Avoid taking on new debt
+* Don't take your job for granted
+* Don't take risks with investments
