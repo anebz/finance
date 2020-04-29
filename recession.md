@@ -22,3 +22,13 @@ A downside of this quantitative easing, or QE, is when countries keep interest r
 * Avoid taking on new debt
 * Don't take your job for granted
 * Don't take risks with investments
+
+## [Deflation](https://www.investopedia.com/terms/d/deflation.asp)
+
+Deflation is when the general price levels in a country are falling—as opposed to inflation when prices rise. It can be caused by an increase in productivity, a decrease in overall demand, or a decrease in the volume of credit in the economy.
+
+Deflation can be brought about either by an increase in the supply of goods and services or by a lack of increase (or decrease) in the supply of money and credit. In either case, if prices can adjust downward, then this results in a generally falling price level. An increase in the supply of goods and services in an economy typically results from technological progress, the discovery of new resources, or an increase in productivity.
+
+A little bit of deflation is a product of, and good for, economic growth. But, in the case of an economy-wide, central bank fueled debt bubble followed by debt deflation when the bubble bursts, rapidly falling prices can go hand-in-hand with financial crisis and recession. Thankfully, the period of debt deflation and recession that follows is temporary, and can be avoided entirely if the perennial temptation to inflate the supply of money and credit in the first place can be resisted. 
+
+All in all, it is not deflation, but the inflationary period that then leads to debt deflation that is dangerous for a country's economy.
