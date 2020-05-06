@@ -28,6 +28,7 @@ Index
 * [Stock](stock.md)
   * [Volatility](volatility.md)
 * [Bond](bond.md)
+* [Mutual funds](mutual-funds.md)
 * [Ramen profitability](ramen-profitable.md)
 * [Stock market simulators](simulators.md)
 * [Recession](recession.md)

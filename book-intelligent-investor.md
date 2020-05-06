@@ -8,12 +8,12 @@ Outline
 3. [A century of stock-market history: the level of stock prices in early 1972](#chapter-3-a-century-of-stock-market-history)
 4. [General portfolio policy: the defensive investor](#chapter-4-general-portfolio-policy)
 5. [The defensive investor and common stocks](#chapter-5-the-defensive-investor-and-common-stocks)
-6. [Portfolio policy for the enterprising investor: negative approach](#chapter-6-portfolio-policy-for-the-enterprising-investor)
-7. Portfolio policy for the enterprising investor
-8. The investor and market fluctuations
-9. Investing in investment funds
-10. The investor and his advisers
-11. Security analysis for the lay investor: general approach
+6. [Portfolio policy for the enterprising investor: negative approach](#chapter-6-portfolio-policy-for-the-enterprising-investor-the-negative-approach)
+7. [Portfolio policy for the enterprising investor: positive side](#chapter-7-portfolio-policy-for-the-enterprising-investor-the-positive-side)
+8. [The investor and market fluctuations](#chapter-8-The-investor-and-market-fluctuations)
+9. [Investing in investment funds](#chapter-9-investing-in-investment-funds)
+10. [The investor and his advisers](#chapter-10-The-investor-and-his-advisers)
+11. [Security analysis for the lay investor: general approach](#chapter-11-security-analysis-for-the-lay-investor)
 12. Things to consider about per-share earnings
 13. A comparison of four listed companies
 14. Stock selection for the defensive investor
@@ -173,7 +173,7 @@ Peter Lynch piloted Fidelity Magellan from 1977 through 1990 to the best track r
 
 But familiarity breeds complacency, just because you know something doesn't mean you know the financial intricancies of it. The more familiar a stock is, the more likely it is to turn a defensive investor into a lazy one who thinks there’s no need to do any homework.
 
-## Chapter 6 portfolio policy for the enterprising investor 133-145-155 147-159-169
+## Chapter 6 portfolio policy for the enterprising investor the negative approach
 
 Experience clearly shows that it is unwise to buy a bond or a preferred which lacks adequate safety merely because the yield is attractive.
 
@@ -181,4 +181,102 @@ It is bad business to accept an acknowledged possibility of a loss of principal 
 
 An elementary requirement for the intelligent investor is an ability to resist the blandishments of salesmen offering new commonstock issues during bull markets.
 
-p162
+When you trade instead of invest, you turn long-term gains (taxed at a maximum capital-gains rate of 20%) into ordinary income (taxed at a maximum rate of 38.6%).
+
+Among the get-rich-quick toxins that poisoned the mind of the investing public in the 1990s, one of the most lethal was the idea that you can build wealth by buying IPOs. An IPO is an “initial public offering,” or the first sale of a company’s stock to the public.
+
+Unfortunately, for every IPO like Microsoft that turns out to be a big winner, there are thousands of losers. The psychologists Daniel Kahnerman and Amos Tversky have shown when humans estimate the likelihood or frequency of an event, we make that judgment based not on how often the event has actually occurred, but on how vivid the past examples are. We all want to buy “the next Microsoft”—precisely because we know we missed buying the first Microsoft. But we conveniently overlook the fact that most other IPOs were terrible investments.
+
+Finally, most of the high returns on IPOs are captured by members of an exclusive private club—the big investment banks and fund houses that get shares at the initial (or “underwriting”) price, before the stock begins public trading.
+
+## Chapter 7 Portfolio policy for the enterprising investor the positive side
+
+Operations in common stocks
+
+1. Buying in low markets and selling in high markets
+2. Buying carefully chosen “growth stocks”
+3. Buying bargain issues of various types
+4. Buying into “special situations”
+
+An “enterprising” investor is not one who takes more risk than average or who buys “aggressive growth” stocks; an enterprising investor is simply one who is willing to put in extra time and effort in researching his or her portfolio.
+
+As the Danish philosopher Søren Kierkegaard noted, life can only be understood backwards—but it must be lived forwards. Looking back, you can always see exactly when you should have bought and sold your stocks. But don’t let that fool you into thinking you can see, in real time, just when to get in and out. In the financial markets, hindsight is forever 20/20, but foresight is legally blind. And thus, for most investors, market timing is a practical and emotional impossibility.
+
+> A great company is not a great investment if you pay too much for the stock
+
+The intelligent investor, however, gets interested in big growth stocks not when they are at their most popular—but when something goes wrong.
+
+“Put all your eggs into one basket and then watch that basket,” proclaimed Andrew Carnegie a century ago. “Do not scatter your shot. . . . The great successes of life are made by concentration.”  As Graham points out, “the really big fortunes from common stocks” have been made by people who packed all their money into one investment they knew supremely well. Like Gates at Microsoft.
+
+But Carnegie neglected to mention that concentration also makes most of the great failures of life.
+
+## Chapter 8 The investor and market fluctuations
+
+It is easy for us to tell you not to speculate; the hard thing will be for you to follow this advice.
+
+* Timing: anticipating the future course of the stock market, to buy when the future course is deemed to be upward, to sell or refrain from buying when the course is downward
+* Pricing: buying stocks when they are quoted below their fair value, and to sell them when they rise above such value
+
+It is not just possible, but probable, that most of the stocks you own will gain at least 50% from their lowest price and lose at least 33% from their highest price—regardless of which stocks you own or whether the market as a whole goes up or down. If you can’t live with that—or you think your portfolio is somehow magically exempt from it—then you are not yet entitled to call yourself an investor.
+
+The most realistic distinction between the investor and the speculator is found in their attitude toward stock-market movements. The speculator’s primary interest lies in anticipating and profiting from market fluctuations. The investor’s primary interest lies in acquiring and holding suitable securities at suitable prices.
+
+> “Never buy a stock immediately after a substantial rise or sell one immediately after a substantial drop.”
+
+Another quote
+
+> But investing isn’t about beating others at their game. It’s about controlling yourself at your own game.
+
+The challenge for the intelligent investor is not to find the stocks that will go up the most and down the least, but rather to prevent yourself from being your own worst enemy—from buying high just because Mr. Market says “Buy!” and from selling low just because Mr. Market says “Sell!”.
+
+If you investment horizon is long—at least 25 or 30 years—there is only one sensible approach: Buy every month, automatically, and whenever else you can spare some money. The single best choice for this lifelong holding is a total stock-market index fund.
+
+## Chapter 9 Investing in investment funds
+
+Most funds underperform the market, overcharge their investors, create tax headaches, and suffer erratic swings in performance.
+
+Understanding why it’s so hard to find a good fund will help you become a more intelligent investor. While past performance is a poor predictor of future
+returns, there are other factors that you can use to increase your odds
+of finding a good fund. Finally, a fund can offer excellent value even if it doesn’t beat the market—by providing an economical way to diversify your holdings and by freeing up your time for all the other things you would rather be doing than picking your own stocks.
+
+Index funds, owning all the stocks in the market, all the time, without any pretense of being able to select the 'best' and avoid the 'worst', will beat most funds over the long run. But they're boring. But as the years pass, the cost advantage of indexing will keep accruing relentlessly.
+
+But some funds do make it. What do they have in common?
+
+* Their managers are the biggest shareholders
+* They're cheap
+* They dare to be different
+* They shut the door to new investors
+* They don't advertise
+
+And if you buy a fund, when should you sell?
+
+* A sharp and unexpected change in strategy, like a value fund loading up on technology stocks, or a growth fund buying tons of insurance stocks
+* An increase in expenses
+* Large and frequent tax bills
+* Suddenly erratic returns
+
+As the investment consultant Charles Ellis puts it, “If you’re not prepared to stay married, you shouldn’t get married.” 16 Fund investing is no different. If you’re not prepared to stick with a fund through at least three lean years, you shouldn’t buy it in the first place. Patience is the fund investor’s single most powerful ally.
+
+## Chapter 10 The investor and his advisers
+
+Advice on investments can be obtained from:
+
+* relative, friend, presumably knowledgeable in securities
+* a local banker
+* a brokerage firm or investment banking house
+* a financial service or periodical
+    - they send periodic letters reporting how the market is doing
+* an investment counselor
+    - they make no claim to be brilliant, just careful, conservative and competent
+
+(the information in this chapter is mostly outdated)
+
+How to know if you need help:
+
+* You have big losses
+* Busted budgets
+* Chaotic portfolios
+* Major changes in your financial goals
+
+## Chapter 11 security analysis for the lay investor 280-302-310 294-316-324
