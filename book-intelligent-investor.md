@@ -10,14 +10,14 @@ Outline
 5. [The defensive investor and common stocks](#chapter-5-the-defensive-investor-and-common-stocks)
 6. [Portfolio policy for the enterprising investor: negative approach](#chapter-6-portfolio-policy-for-the-enterprising-investor-the-negative-approach)
 7. [Portfolio policy for the enterprising investor: positive side](#chapter-7-portfolio-policy-for-the-enterprising-investor-the-positive-side)
-8. [The investor and market fluctuations](#chapter-8-The-investor-and-market-fluctuations)
+8. [The investor and market fluctuations](#chapter-8-the-investor-and-market-fluctuations)
 9. [Investing in investment funds](#chapter-9-investing-in-investment-funds)
-10. [The investor and his advisers](#chapter-10-The-investor-and-his-advisers)
+10. [The investor and his advisers](#chapter-10-the-investor-and-his-advisers)
 11. [Security analysis for the lay investor: general approach](#chapter-11-security-analysis-for-the-lay-investor)
-12. Things to consider about per-share earnings
-13. A comparison of four listed companies
-14. Stock selection for the defensive investor
-15. Stock selection for the enterprising investor
+12. [Things to consider about per-share earnings](#chapter-12-things-to-consider-about-per-share-earnings)
+13. [A comparison of four listed companies](#chapter-13-a-comparison-of-four-listed-companies)
+14. [Stock selection for the defensive investor](chapter-14-stock-selection-for-the-defensive-investor)
+15. [Stock selection for the enterprising investor](#chapter-15-stock-selection-for-the-enterprising-investor)
 16. Convertible issues and warrants
 17. Four extremely instructive case histories
 18. A comparison of eight pairs of companies
@@ -279,4 +279,79 @@ How to know if you need help:
 * Chaotic portfolios
 * Major changes in your financial goals
 
-## Chapter 11 security analysis for the lay investor 280-302-310 294-316-324
+## Chapter 11 security analysis for the lay investor
+
+The security analyst develops and applies standards of safety by which we can conclude whether a given bond or preferred stock may be termed sound enough to justify purchase for investment.
+
+### Bond analysis
+
+This is the analysis of the safety, quality, of bond issues and investment-grade preferred stocks. (see book pages 280-287).
+
+### Common-stock analysis
+
+The ideal form of common-stock analysis leads to a valuation of the issue which can be compared with the current price to determine whether or not the security is an attractive purchase. This valuation would be found by estimating the average earnings over a period of years in the future and then multiplying that estimate by an appropriate 'capitalization factor'. See book pages 288-298.
+
+## Industry analysis
+
+The security analyst shold devote a great deal of attention to the economic position of the industry and of the individual company in its industry.
+
+------------------------
+
+Which factors determine how much you should be willing to pay for a stock? What makes one company worth 10 times earnings and another worth 20 times? How can you be reasonably sure that you are not overpaying for an apparently rosy future that turns out to be a murky nightmare? Graham feels that five elements are decisive.
+
+* the company’s “general long-term prospects”
+    - check at least 5 years' annual reports from the company, comb through the financial statements. Some problems
+        + the company is a serial acquirer, 2+ acquisitions a year is a sign of trouble
+        + the company is an Other People's Money addict, borrowing debt or selling stock to raise boatloads
+        + the company relies on very few customers for most of its revenues
+    - Good signs
+        + the company has a wide moat, a strong brand identity, a monopoly, intangible asset, a resistance to substitution
+        + marathoner rather than sprinter
+        + the company sows and reaps
+* the quality of its management
+* its financial strength and capital structure
+* its dividend record
+* and its current dividend rate
+
+See the commentary for more details.
+
+## Chapter 12 Things to consider about per share earnings
+
+Two warnings:
+
+* Don't take a single year's earnings seriously
+* If you do, look out for booby traps in the per-share figures
+
+Beware of *special charges*, which may never be reflected in the per-share earnings, the reduction in the normal *income-tax* deduction by reason of past losses, and the *dilution* factor implicit in the existence of substantial amounts of convertible securities or warrants.
+
+Pro forma earnings enable companies to show how well they might have done if they hadn't done as badly as they did, so just ignore pro forma earnings.
+
+Some stocks might be accounting time bombs. Some advice:
+
+* Read backwards: when reading a company's financial reports, start from the back. Anything that the company doesn't want you to find will be buried in the back.
+* Read the notes: never buy a stok without reading the footnotes to the financial statements in the annual report. Usually labeled “summary of significant accounting policies,” one key note describes how the company recognizes revenue, records inventories, treats installment or contract sales, expenses its marketing costs, and accounts for the other major aspects of its business.
+* Read more: if you're an enterprising investor and have time, learn more about financial reporting. Recommended books in p329.
+
+## Chapter 13 A comparison of four listed companies
+
+Security analysis of profitability, stability, growth, financial position, dividends, price history.
+
+## Chapter 14 Stock selection for the defensive investor
+
+The defensive investor who follows our suggestions will purchase only high-grade bonds + a diversified list of leading common stocks. Regarding the set up of the portfolio, there are 2 choices. DJIA-type portfolio and quantitatively-tested portfolio.
+
+1. DJIA-type: acquire a true cross-section sample of the leading issues, including growth companies, and less popular and less expensive enterprises. This can be done by buying the same amounts of all 30 of the issues in the DJIA (as of 1970). Now, it's recommended to buy a total stock-market index fund.
+2. Apply a set of standards to each purchase, ensuring that you obtain a minimum of *quality* in the past performance and current financial position of the company, and also a minimum of *quantity* in terms of earnings and assets per dollar of price.
+
+Some criteria for the selection of specific common stocks, and explanations (see commentary subsection in book):
+
+1. Adequate size of the enterprise
+2. A sufficiently strong financial condition
+3. Earnings stability
+4. Dividend record
+5. Earnings growth
+6. Moderate price/earnings ratio
+7. Moderate ratio of price to assets
+
+## Chapter 15 Stock selection for the enterprising investor 376-396-403 390-410-417
+
