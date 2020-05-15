@@ -18,11 +18,11 @@ Outline
 13. [A comparison of four listed companies](#chapter-13-a-comparison-of-four-listed-companies)
 14. [Stock selection for the defensive investor](chapter-14-stock-selection-for-the-defensive-investor)
 15. [Stock selection for the enterprising investor](#chapter-15-stock-selection-for-the-enterprising-investor)
-16. Convertible issues and warrants
-17. Four extremely instructive case histories
-18. A comparison of eight pairs of companies
-19. Shareholders and managements: dividend policy
-20. "Margin of safety" as the central concept of investment
+16. [Convertible issues and warrants](#chapter-16-convertible-issues-and-warrants)
+17. [Four extremely instructive case histories](#chapter-17-four-extremely-instructive-case-histories)
+18. [A comparison of eight pairs of companies](#chapter-18-a-comparison-of-eight-pairs-of-companies)
+19. [Shareholders and managements: dividend policy](#chapter-19-shareholders-and-managements-dividend-policy)
+20. ["Margin of safety" as the central concept of investment](#chapter-20-margin-of-safety-as-the-central-concept-of-investment)
 
 ## Preface
 
@@ -225,7 +225,7 @@ The most realistic distinction between the investor and the speculator is found 
 
 Another quote
 
-> But investing isn’t about beating others at their game. It’s about controlling yourself at your own game.
+> Investing isn’t about beating others at their game. It’s about controlling yourself at your own game.
 
 The challenge for the intelligent investor is not to find the stocks that will go up the most and down the least, but rather to prevent yourself from being your own worst enemy—from buying high just because Mr. Market says “Buy!” and from selling low just because Mr. Market says “Sell!”.
 
@@ -353,5 +353,90 @@ Some criteria for the selection of specific common stocks, and explanations (see
 6. Moderate price/earnings ratio
 7. Moderate ratio of price to assets
 
-## Chapter 15 Stock selection for the enterprising investor 376-396-403 390-410-417
+## Chapter 15 Stock selection for the enterprising investor
+
+A summary of the Graham-Newman methods, the types of corporations the Graham-Newman corporation engaged in:
+
+* Arbitrages
+* Liquidations
+* Related hedges
+* Net-current-assets
+
+Nowadays it's inadvisable to pick stocks individually, most people do a poor job and they're better off with an index fund. Graham advises to practice, spending a year tracking and picking stocks, ideally through a stock simulator.
+
+### Warren's way
+
+He looks for 'franchise' companies with strong consumer brands, easily understandable businesses, robust financial health and near-monopolies in their markets. Buffett likes to snap up a stock when a scandal, big loss, or other bad news passes over it like a storm cloud. He also wants to see managers who set and meet realistic goals: build their businesses from within rather than through acquisition, allocate capital wisely, and don't pay themselves hundred-million-dollar jackpots of stock options.
+
+## Chapter 16 Convertible issues and warrants
+
+Convertible bonds are called bonds but behave like stocks, work like options and are cloaked in obscurity. If you own a convertible, you also hold an option: You can either keep the bond and continue to earn interest on it, or you can exchange it for common stock of the issuing company at a predetermined ratio.  An option gives its owner the right to buy or sell another security at a given price within a specific period of time.) Because they are exchangeable into stock, convertibles pay lower rates of interest than most comparable bonds. On the other hand, if a company’s stock price soars, a convertible bond exchangeable into that stock will perform much better than a conventional bond.
+
+More income, less risk than stocks: No wonder Wall Street’s salespeople often describe convertibles as a “best of both worlds” investment. But the intelligent investor will quickly realize that convertibles offer less income and more risk than most other bonds.  So they could, by the same logic and with equal justice, be called a “worst of both worlds” investment. Which side you come down on depends on how you use them.
+
+In truth, convertibles act more like stocks than bonds. They might be a good idea for conservative investors with most or all of their assets in bonds, without taking the scary step of investing in stocks directly.
+
+Today’s intelligent investor has the convenient recourse of buying a low-cost convertible bond fund.
+
+## Chapter 17 Four extremely instructive case histories
+
+Graham highlights four extremes
+
+* An overpriced 'tottering giant'
+* An empire-building conglomerate
+* A merger in which a tiny firm took over a big one
+* An initial public offering of shares in a basically worthless company
+
+## Chapter 18 A comparison of eight pairs of companies
+
+The market scoffs at Graham’s principles in the short run, but they are always revalidated in the end. If you buy a stock purely because its price has been going up—instead of asking whether the underlying company’s value is increasing—then sooner or later you will be extremely sorry. That’s not a likelihood. It is a certainty.
+
+## Chapter 19 Shareholders and managements dividend policy 501-511
+
+Today’s investors have forgotten Graham’s message. They put most of their effort into buying a stock, a little into selling it—but none into owning it. Graham reminds us, “there is just as much reason to exercise care and judgment in being as in becoming a stockholder.” Graham starts by telling us that “there are just two basic questions to which stockholders should turn their attention:
+
+1. Is the management reasonably efficient?
+2. Are the interests of the average outside shareholder receiving
+proper recognition?
+
+Graham suggests that every company’s independent board members should have to report to the shareholders in writing on whether the business is properly managed on behalf of its true owners.
+
+## Chapter 20 Margin of safety as the central concept of investment
+
+The margin of safety for bonds may be calculated by comparing the total value of the enterprise with the amount of debt. If the business owes $10 million and is fairly worth $30 million, there is room for a shrinkage of two-thirds in value—at least theoretically—before the bondholders will suffer loss. The amount of this extra value, or “cushion,” above the debt may be approximated by using the average market price of the junior stock issues over a period of years.
+
+In the ordinary common stock, bought for investment under normal conditions, the margin of safety lies in an expected earning power considerably above the going rate for bonds.
+
+> Graham elegantly summarized the discussion that follows in a lecture he gave in 1972: “The margin of safety is the difference between the percentage rate of the earnings on the stock at the price you pay for it and the rate of interest on bonds, and that margin of safety is the difference which would absorb unsatisfactory developments. At the time the 1965 edition of The Intelligent Investor was written the typical stock was selling at 11 times earnings, giving about 9% return as against 4% on bonds. In that case you had a margin of safety of over 100 per cent. Now (in 1972) there is no difference between the earnings rate on stocks and the interest rate on stocks, and I say there is no margin of safety . . . you have a negative margin of safety on stocks . . .”
+
+### Theory of Diversification
+
+There is a close logical connection between the concept of a safety margin and the principle of diversification.
+
+The first and most obvious of these principles is, “Know what you are doing—know your business.” For the investor this means: Do not try to make “business profits” out of securities—that is, returns in excess of normal interest and dividend income—unless you know as much about security values as you would need to know about the value of merchandise that you proposed to manufacture or deal in.
+
+A second business principle: “Do not let anyone else run your business, unless (1) you can supervise his performance with adequate care and comprehension or (2) you have unusually strong reasons for placing implicit confidence in his integrity and ability.”
+
+A third business principle: “Do not enter upon an operation— that is, manufacturing or trading in an item—unless a reliable calculation shows that it has a fair chance to yield a reasonable profit. In particular, keep away from ventures in which you have little to gain and much to lose.” For the enterprising investor this means that his operations for profit should be based not on optimism but on arithmetic.
+
+A fourth business rule is more positive: “Have the courage of your knowledge and experience. If you have formed a conclusion from the facts and if you know your judgment is sound, act on it— even though others may hesitate or differ.” You are neither right nor wrong because the crowd disagrees with you. You are right because your data and reasoning are right.
+
+> First, don't lose
+
+For the intelligent investor, Graham’s “margin of safety” performs the same function: By refusing to pay too much for an investment, you minimize the chances that your wealth will ever disappear or suddenly be destroyed.
+
+Daniel Kahneman explains two factors that characterize good decisions:
+
+* “well-calibrated confidence” (do I understand this investment as well as I think I do?)
+* “correctly-anticipated regret” (how will I react if my analysis turns out to be wrong?).
+
+To find out whether your confidence is well-calibrated, look in the mirror and ask yourself: “What is the likelihood that my analysis is right?” Think carefully through these questions:
+
+* How much experience do I have? What is my track record with similar decisions in the past?
+* What is the typical track record of other people who have tried this in the past?
+* If I am buying, someone else is selling. How likely is it that I know something that this other person (or company) does not know?
+* If I am selling, someone else is buying. How likely is it that I know something that this other person (or company) does not know?
+* Have I calculated how much this investment needs to go up for me to break even after my taxes and costs of trading?
+
+> “In making decisions under conditions of uncertainty, the consequences must dominate the probabilities. We never know the future.”
 
