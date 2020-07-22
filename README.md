@@ -34,6 +34,8 @@ Index
 * [Recession](recession.md)
   * [Bear market](bear-market.md)
   * [Bull market](bull-market.md)
+* [Elasticity vs. inelasticity of demand](elasticity.md)
+* [Credit card vs. debit card](credit-debit-card.md)
 
 ## Books
 

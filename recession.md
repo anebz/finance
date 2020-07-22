@@ -32,3 +32,9 @@ Deflation can be brought about either by an increase in the supply of goods and 
 A little bit of deflation is a product of, and good for, economic growth. But, in the case of an economy-wide, central bank fueled debt bubble followed by debt deflation when the bubble bursts, rapidly falling prices can go hand-in-hand with financial crisis and recession. Thankfully, the period of debt deflation and recession that follows is temporary, and can be avoided entirely if the perennial temptation to inflate the supply of money and credit in the first place can be resisted. 
 
 All in all, it is not deflation, but the inflationary period that then leads to debt deflation that is dangerous for a country's economy.
+
+## [Industries That Thrive During Recessions](https://www.investopedia.com/articles/stocks/08/industries-thrive-on-recession.asp)
+
+these are often industries where demand is inelastic to changes in prices and incomes - the volume of consumer demand is relatively stable. For example discount retailers, health care, because it's inelastic. Utilities, personal storage.  Food and restauranta, DIY and repairs, freight and logistics, goods need to be moved, recession or not.
+
+Healthcare, food, consumer staples, and basic transportation are examples of relatively inelastic industries that can perform well in recessions.
