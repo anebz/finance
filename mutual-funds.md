@@ -1,4 +1,4 @@
-# [Mudual funds](https://www.investopedia.com/terms/m/mutualfund.asp)
+# [Mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp)
 
 It's a financial vehicle made up of a pool of money collected from many investors to invest in securities. They're operated by professional money managers. They give small or individual investors access to professionally managed portfolios. Each shareholder participates proportionally in the gains or losses of the fund. Mutual funds trade only once a day after the markets close. 
 

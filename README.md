@@ -37,6 +37,15 @@ Index
 * [Elasticity vs. inelasticity of demand](elasticity.md)
 * [Credit card vs. debit card](credit-debit-card.md)
 
+## Articles
+
+* [Investing books for every kind of investor](https://ofdollarsanddata.com/best-investing-books/)
+  - For beginners
+  - For stock pickers / traders
+  - For indexers / asset allocators
+  - For history lovers
+  - Technical finance books
+
 ## Books
 
 * [Financial freedom book notes](book-financial-freedom-sabatier.md)
